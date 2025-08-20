@@ -22,9 +22,5 @@ Currently **self-learning AI**, exploring how intelligence can enhance interface
 
 ## 🌱 Beyond Code  
 Passionate about the convergence of **UI and AI**, curious by nature, and always eager to learn and build things that are functional, scalable, and future-ready.  
-
----
-
-## 📫 Connect  
-[LinkedIn](#) | [Portfolio](#)  
+  
 
