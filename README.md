@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💻 About Me  
-I’m a **UI Developer** at **ION**, working as part of the **Design Systems team**.  
+I’m a **Software Developer** at **ION**, working as part of the **Design Systems team**.  
 My role spans building scalable interfaces, bug fixing, automation testing, and collaborating closely with UX teams to shape seamless experiences.  
 
 I hold a **B.Tech from Pune Institute of Computer Technology (PICT), Pune** and bring my passion for design, development, and problem-solving into everything I do.  
